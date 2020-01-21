@@ -1,10 +1,10 @@
-### Overview:
+## Overview:
 This workshop will give you an introduction to data cleaning with python.  The focus is on techniques commonly needed for geospatial data.
 
-### Datasets:
+## Datasets:
 https://data.boston.gov/dataset/parking-meters
 
-### Additional Resources:
+## Additional Resources:
   #### pandas
   - overview of pandas built in funcionality: https://pandas.pydata.org/pandas-docs/stable/reference/index.html
   
@@ -14,5 +14,5 @@ https://data.boston.gov/dataset/parking-meters
 
 
 
-### Contact:
+## Contact:
 info@leventhalmap.org 
