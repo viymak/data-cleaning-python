@@ -21,6 +21,7 @@ dependencies:
   - expat=2.2.6
   - fiona=1.8.11
   - folium=0.10.0
+  - gdal=3.0.4
   - geographiclib=1.50
   - geopandas=0.6.0
   - geopy=1.20.0
