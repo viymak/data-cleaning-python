@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - altair=3.2.0
+    - altair=3.2.0
   - asn1crypto=1.2.0
   - attrs=19.2.0
   - backcall=0.1.0
@@ -19,11 +19,8 @@ dependencies:
   - defusedxml=0.6.0
   - entrypoints=0.3
   - expat=2.2.6
-  - fiona=1.8.11
   - folium=0.10.0
-  - gdal=3.0.4
   - geographiclib=1.50
-  - geopandas=0.6.0
   - geopy=1.20.0
   - geos=3.8.0
   - gettext=0.19.8.1
@@ -36,6 +33,7 @@ dependencies:
   - ipywidgets=7.5.1
   - jedi=0.15.1
   - jinja2=2.10.3
+  - jpeg=9b
   - jsonschema=3.0.2
   - jupyter=1.0.0
   - jupyter_client=5.3.4
